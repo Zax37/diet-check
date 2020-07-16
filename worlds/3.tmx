@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="left-up" width="14" height="10" tilewidth="76" tileheight="76" infinite="0" nextlayerid="7" nextobjectid="23">
+ <tileset firstgid="1" source="../res/world.tsx"/>
+ <layer id="1" name="Map" width="14" height="10" offsetx="0" offsety="76">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYCETs5GIkfWhm4ONxsZmw6OeDU0dIfNJsY8c/5HrTkrChRR3koMB/hYCtw==
+  </data>
+ </layer>
+ <objectgroup id="4" name="Bad" offsetx="0" offsety="76">
+  <object id="13" gid="1" x="324.772" y="449.603" width="38" height="63"/>
+  <object id="14" gid="1" x="779.935" y="450.48" width="38" height="63"/>
+ </objectgroup>
+ <objectgroup id="6" name="Good" offsetx="0" offsety="76">
+  <object id="18" gid="8" x="540.355" y="520.355" width="57" height="55"/>
+  <object id="19" gid="10" x="702.031" y="295.501" width="41" height="59"/>
+  <object id="20" gid="10" x="395.899" y="295.501" width="41" height="59"/>
+  <object id="21" gid="9" x="89.4271" y="446.737" width="49" height="60"/>
+  <object id="22" gid="9" x="926.104" y="447.957" width="49" height="60"/>
+ </objectgroup>
+ <objectgroup id="5" name="Player" offsetx="0" offsety="76">
+  <object id="3" gid="3" x="532" y="304" width="76" height="122"/>
+ </objectgroup>
+</map>

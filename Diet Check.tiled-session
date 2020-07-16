@@ -1,0 +1,94 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "worlds/4.tmx",
+    "expandedProjectPaths": [
+        "worlds"
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Projects/godot-pathfinding2d-demo-master/res/test.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 438.66666666666674,
+                "y": 394.6666666666667
+            }
+        },
+        "C:/Projects/godot-pathfinding2d-demo-master/res/world.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "res/world.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "worlds/1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 557.3333333333334,
+                "y": 390.6666666666667
+            }
+        },
+        "worlds/2.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 558.6666666666665,
+                "y": 492
+            }
+        },
+        "worlds/3.tmx": {
+            "scale": 0.8199099099099099,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 530.5460938358424,
+                "y": 557.378310075816
+            }
+        },
+        "worlds/4.tmx": {
+            "scale": 0.8199099099099099,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 556.1586638830898,
+                "y": 418.3386441050434
+            }
+        }
+    },
+    "loadedWorlds": [
+    ],
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 16,
+    "openFiles": [
+        "worlds/1.tmx",
+        "worlds/2.tmx",
+        "res/world.tsx",
+        "worlds/3.tmx",
+        "worlds/4.tmx"
+    ],
+    "project": "Diet Check.tiled-project",
+    "recentFiles": [
+        "worlds/1.tmx",
+        "worlds/2.tmx",
+        "res/world.tsx",
+        "worlds/3.tmx",
+        "worlds/4.tmx",
+        "worlds/test.tmx",
+        "C:/Projects/godot-pathfinding2d-demo-master/res/world.tsx",
+        "C:/Projects/godot-pathfinding2d-demo-master/res/test.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

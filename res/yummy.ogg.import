@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/yummy.ogg-a709b4ea437c2c7d0aae4589726aa382.oggstr"
+
+[deps]
+
+source_file="res://res/yummy.ogg"
+dest_files=[ "res://.import/yummy.ogg-a709b4ea437c2c7d0aae4589726aa382.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
