@@ -11,5 +11,5 @@ dest_files=[ "res://.import/yumyum.ogg-5782d2a00cf53a308f159f3ba7b2716d.oggstr" 
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

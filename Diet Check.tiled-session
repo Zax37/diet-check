@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "worlds/4.tmx",
+    "activeFile": "worlds/3.tmx",
     "expandedProjectPaths": [
         "worlds"
     ],
@@ -31,35 +31,51 @@
             "scaleInEditor": 1
         },
         "worlds/1.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 0,
+            "scale": 0.6468,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 557.3333333333334,
-                "y": 390.6666666666667
+                "x": 745.2071737786023,
+                "y": 562.7705627705627
             }
         },
         "worlds/2.tmx": {
             "scale": 0.75,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 558.6666666666665,
-                "y": 492
+                "x": 986.6666666666667,
+                "y": 486.66666666666663
+            }
+        },
+        "worlds/2o.tmx": {
+            "scale": 0.9080630630630631,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 555.5781536782579,
+                "y": 417.37189344709566
             }
         },
         "worlds/3.tmx": {
             "scale": 0.8199099099099099,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 530.5460938358424,
-                "y": 557.378310075816
+                "x": 944.0061531699814,
+                "y": 554.9390176903638
+            }
+        },
+        "worlds/3o.tmx": {
+            "scale": 0.9080630630630631,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 555.5781536782579,
+                "y": 418.4731385485391
             }
         },
         "worlds/4.tmx": {
             "scale": 0.8199099099099099,
-            "selectedLayer": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 556.1586638830898,
-                "y": 418.3386441050434
+                "x": 514.0808702340403,
+                "y": 417.11899791231735
             }
         }
     },
@@ -74,16 +90,18 @@
     "openFiles": [
         "worlds/1.tmx",
         "worlds/2.tmx",
-        "res/world.tsx",
         "worlds/3.tmx",
-        "worlds/4.tmx"
+        "res/world.tsx"
     ],
     "project": "Diet Check.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "worlds/1.tmx",
         "worlds/2.tmx",
         "res/world.tsx",
         "worlds/3.tmx",
+        "worlds/3o.tmx",
+        "worlds/2o.tmx",
         "worlds/4.tmx",
         "worlds/test.tmx",
         "C:/Projects/godot-pathfinding2d-demo-master/res/world.tsx",

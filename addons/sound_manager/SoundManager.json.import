@@ -2,13 +2,11 @@
 
 importer="vnen.tiled_importer"
 type="PackedScene"
-path="res://.import/4.tmx-74d34a8078ecafc12e93d5c8f2cc1466.scn"
+valid=false
 
 [deps]
 
-source_file="res://worlds/4.tmx"
-dest_files=[ "res://.import/4.tmx-74d34a8078ecafc12e93d5c8f2cc1466.scn" ]
-
+source_file="res://addons/sound_manager/SoundManager.json"
 [params]
 
 custom_properties=true

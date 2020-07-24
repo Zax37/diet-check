@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="14" height="10" tilewidth="76" tileheight="76" infinite="0" nextlayerid="5" nextobjectid="6">
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="14" height="10" tilewidth="76" tileheight="76" infinite="0" nextlayerid="6" nextobjectid="6">
  <tileset firstgid="1" source="../res/world.tsx"/>
- <layer id="1" name="Map" width="14" height="10" offsetx="0" offsety="76">
+ <imagelayer id="5" name="Bg" locked="1">
+  <image source="../res/bg.png" width="1920" height="1080"/>
+ </imagelayer>
+ <layer id="1" name="Map" width="14" height="10" offsetx="401" offsety="168">
   <data encoding="base64" compression="zlib">
-   eJxjYBg6gIUIGh3jEkfHbEgYWR8bCZgU+3C5kxyangAA+kAA+Q==
+   eJxjYKAMsNBIDwsSRteHj0bHuMTRMSsOe5iJcCsIMJJoHy530pMmBwAA2XAA3g==
   </data>
  </layer>
- <objectgroup id="4" name="Bad" offsetx="0" offsety="76">
-  <object id="5" gid="1" x="931.667" y="444" width="38" height="63"/>
- </objectgroup>
- <objectgroup id="3" name="Good" offsetx="0" offsety="76">
-  <object id="4" gid="5" x="765" y="372.333" width="63" height="62"/>
- </objectgroup>
- <objectgroup id="2" name="Player" offsetx="0" offsety="76">
-  <object id="3" gid="3" x="152" y="456" width="76" height="122"/>
- </objectgroup>
 </map>

@@ -11,5 +11,5 @@ dest_files=[ "res://.import/yummy.ogg-a709b4ea437c2c7d0aae4589726aa382.oggstr" ]
 
 [params]
 
-loop=true
+loop=false
 loop_offset=0

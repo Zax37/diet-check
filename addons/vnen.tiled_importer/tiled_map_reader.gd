@@ -234,6 +234,7 @@ func make_layer(layer, parent, root, data):
 
 		tilemap.position = offset + map_pos_offset
 		tilemap.tile_set = tileset
+		tilemap.position.y += cell_size.y
 
 		var chunks = []
 
